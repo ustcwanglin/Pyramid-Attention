@@ -1,4 +1,4 @@
-Code for "Spatial-Temporal Pyramid Attention ConvLSTM Network for Action Recognition" 
+Code for "Spatial-Temporal Pyramid Attention ConvLSTM Network for Visual Recognition" 
 
 We propose a spatial pyramid module to take full use of inherent multi-scale 
 information of CNNs. 
